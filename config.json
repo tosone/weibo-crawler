@@ -1,0 +1,20 @@
+{
+  "user_id_list": "id.txt",
+  "filter": 1,
+  "since_date": "2015-01-01",
+  "write_mode": [
+    "mysql"
+  ],
+  "original_pic_download": 0,
+  "retweet_pic_download": 0,
+  "original_video_download": 0,
+  "retweet_video_download": 0,
+  "mysql_config": {
+    "host": "localhost",
+    "port": 3306,
+    "user": "tosone",
+    "password": "123456",
+    "db": "database",
+    "charset": "utf8mb4"
+  }
+}
