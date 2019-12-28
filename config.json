@@ -10,7 +10,7 @@
   "original_video_download": 0,
   "retweet_video_download": 0,
   "mysql_config": {
-    "host": "localhost",
+    "host": "mysql.tosone.cn",
     "port": 3306,
     "user": "tosone",
     "password": "123456",
